@@ -1,0 +1,20 @@
+{
+  
+  "carousel": [
+    {
+      "image": "/imagens/cc.jpg",
+      "alt": "Slide 1"
+    },
+    {
+      "image": "cc2.jpg",
+      "alt": "Slide 2"
+    }
+  ],
+  "perfil": {
+    "avatar": "joao.png",
+    "alt": "joao",
+    "nome": "João Pedro Machado",
+    "bio": "Desenvolvedor Full Stack JavaScript/HTML/CSS, Git, C#, Java, Python, SQL",
+    "linkedin": "https://www.linkedin.com/in/joão-pedro-machado-85714226a/"
+  }
+}
